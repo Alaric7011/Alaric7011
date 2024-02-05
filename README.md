@@ -9,8 +9,6 @@
 
 [![Alaric7011's GitHub Stats](https://stats.quine.sh/Alaric7011/github?theme=light)](https://quine.sh)
 
-[![Alaric7011's Languages Over Time](https://stats.quine.sh/Alaric7011/languages-over-time?theme=dark)](https://quine.sh)
-
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/itsmominkhalil_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/momin-khalil-a0b690292) 
@@ -25,10 +23,3 @@
 
 ### ✍️ Random Dev Quote
 ![Random Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 😂 Random Dev Meme
-![Random Dev Meme](https://random-memer.herokuapp.com/)
-
----
-
-[![Profile Views](https://visitcount.itsvg.in/api?id=Alaric7011&icon=0&color=0)](https://visitcount.itsvg.in)
