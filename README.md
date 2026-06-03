@@ -7,7 +7,6 @@ and software development through my work at The Startup School.
 ## About
 
 - Pursuing a B.Tech. in Computer Science Engineering.
-- Building a university recruitment platform connecting students with startup opportunities.
 - Interested in backend development, data science, and applied machine learning.
 - Open to internship and full-time opportunities.
 
