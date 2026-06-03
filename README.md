@@ -1,7 +1,7 @@
 # Momin Khalil
 
 Final-year B.Tech. (CSE) student at Amity University, Noida. Currently focused on
-deepening my proficiency in Python and C, with hands-on experience in HR operations
+deepening my proficiency in Python, with hands-on experience in HR operations
 and software development through my work at The Startup School.
 
 ## About
