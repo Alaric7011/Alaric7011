@@ -1,25 +1,30 @@
-👋 Hi, It's me, @Alaric7011
+# Momin Khalil
 
-# 💫 About Me:
-- 👀 I’m currently sharpening my skills in Python and C.
-- 🌱 I’m doing my B Tech in CSE.
-- 📫 To reach me, send me a friend request on Discord.
-- 📝 My Discord username: its_alaric 
-- 💬 Ask me about my interests.
+Final-year B.Tech. (CSE) student at Amity University, Noida. Currently focused on
+deepening my proficiency in Python and C, with hands-on experience in HR operations
+and software development through my work at The Startup School.
 
-[![Alaric7011's GitHub Stats](https://stats.quine.sh/Alaric7011/github?theme=light)](https://quine.sh)
+## About
 
+- Pursuing a B.Tech. in Computer Science Engineering.
+- Building a university recruitment platform connecting students with startup opportunities.
+- Interested in backend development, data science, and applied machine learning.
+- Open to internship and full-time opportunities.
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/itsmominkhalil_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/momin-khalil-a0b690292) 
+## Tech Stack
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)  ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)  
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 
-# 📊 GitHub Stats:
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Alaric7011&theme=radical&hide_border=false&include_all_commits=false&count_private=true)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Alaric7011&theme=radical&hide_border=false)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Alaric7011&theme=radical&hide_border=false&layout=compact)
+## Connect
 
-### ✍️ Random Dev Quote
-![Random Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/momin-khalil-a0b690292)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/itsmominkhalil_)
+[![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/783330889450258492)
+
+## GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Alaric7011&theme=default&hide_border=true&include_all_commits=false&count_private=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Alaric7011&theme=default&hide_border=true&layout=compact)
